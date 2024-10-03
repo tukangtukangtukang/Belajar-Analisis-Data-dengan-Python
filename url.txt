@@ -1,5 +1,4 @@
 local : http://localhost:8501
 
-(not working)
-deploy : submission-pcar9f9avlxmolhqoh959l.streamlit.app
+deploy : https://4korfdzvqleicn9dmtlb9t.streamlit.app
 
